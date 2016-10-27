@@ -7,7 +7,7 @@ Fitting parameters usually are obtained by minimizing the [cost fucntion (Chi-sq
 Markov Chain Monte Carlo (MCMC) is a typical Algorithm in Bayesian Statistics. The prediction of fitting parameters can be modeled as  building a Bayesian model for the fitting parameters, and solving by MCMC method. This code is the demonstration to show the advantages and
 concerned points, when implementing these two method in curves fitting.
 
-##TEST RESULT
+##DISCUSSION
 
 Advantages of Chi-square fitting are as follows:
 
